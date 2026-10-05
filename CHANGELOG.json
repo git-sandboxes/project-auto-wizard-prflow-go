@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-05T07:42:37Z",
+    "lastUpdated": "2026-10-05T07:44:52Z",
     "currentVersion": "1.4.0",
     "projectTypes": [
       "go"
@@ -14,12 +14,13 @@
         "go"
       ],
       "date": "2026-10-05",
-      "pr_number": 15,
-      "raw_summary": "### ✨ 기능\n- add login page",
+      "pr_number": 18,
+      "raw_summary": "### ✨ 기능\n- add login page\n- add login page",
       "parsed_changes": {
         "feat": {
           "title": "✨ 기능",
           "items": [
+            "add login page",
             "add login page"
           ]
         }
