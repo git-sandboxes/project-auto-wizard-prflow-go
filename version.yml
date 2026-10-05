@@ -57,7 +57,7 @@ metadata:
       mode: "pr-flow" # pr-flow | trunk-based
     options:
       semver_auto: true
-      copilot_ai: false
+      copilot_ai: true
       release_automerge: false
       deploy_style: "simple" # simple | nginx | traefik | none (server deploy workflows)
 
