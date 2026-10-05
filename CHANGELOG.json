@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-05T07:15:24Z",
+    "currentVersion": "1.2.1",
+    "projectTypes": [
+      "go"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "1.2.1",
+      "project_types": [
+        "go"
+      ],
+      "date": "2026-10-05",
+      "pr_number": null,
+      "raw_summary": "### 🔧 변경사항\n- set issue helper commit template",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "set issue helper commit template"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
