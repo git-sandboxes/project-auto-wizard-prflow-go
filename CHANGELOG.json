@@ -1,13 +1,32 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-05T07:16:55Z",
-    "currentVersion": "1.2.3",
+    "lastUpdated": "2026-10-05T07:36:58Z",
+    "currentVersion": "1.3.0",
     "projectTypes": [
       "go"
     ],
-    "totalReleases": 3
+    "totalReleases": 4
   },
   "releases": [
+    {
+      "version": "1.3.0",
+      "project_types": [
+        "go"
+      ],
+      "date": "2026-10-05",
+      "pr_number": 12,
+      "raw_summary": "### ✨ 기능\n- add login page\n- add login page",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ 기능",
+          "items": [
+            "add login page",
+            "add login page"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "1.2.3",
       "project_types": [
