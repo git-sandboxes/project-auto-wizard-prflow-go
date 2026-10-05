@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-05T07:15:55Z",
-    "currentVersion": "1.2.2",
+    "lastUpdated": "2026-10-05T07:16:55Z",
+    "currentVersion": "1.2.3",
     "projectTypes": [
       "go"
     ],
-    "totalReleases": 2
+    "totalReleases": 3
   },
   "releases": [
+    {
+      "version": "1.2.3",
+      "project_types": [
+        "go"
+      ],
+      "date": "2026-10-05",
+      "pr_number": null,
+      "raw_summary": "### 🔧 변경사항\n- restore issue helper defaults",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 변경사항",
+          "items": [
+            "restore issue helper defaults"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "1.2.2",
       "project_types": [
